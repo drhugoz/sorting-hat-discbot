@@ -1,2 +1,10 @@
 # sorting-hat-discbot
-sorting hat for discord server for fun
+
+```
+$brew install pyenv
+$brew install pipenv
+$pipenv install
+$pipenv shell
+<put your data in settings.py>
+$python application.py
+```
